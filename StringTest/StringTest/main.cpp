@@ -143,36 +143,41 @@ public:
 
 };
 
-void Test5() {
+//void Test5() {
+//
+//
+//}
+//
+//int main() {
+//	//Test1();
+//	//Test2();
+//	//Test3();
+//	//Test4();
+//
+//	/*string s("abcdefg");
+//	Solution s1;
+//	string str = s1.reverseStr(s, 2);
+//	cout << str << endl;*/
+//
+//	/*string s("+1234567");
+//	Solution s1;
+//	int str = s1.StrToInt(s);*/
+//
+//	/*string s1("1");
+//	string s2("9");
+//	Solution s;
+//	string str = s.addStrings(s1, s2);*/
+//
+//	/*string s("hello world ok");
+//	Solution s1;
+//	s = s1.reverseWords(s);*/
+//
+//
+//
+//	return 0;
+//}
 
 
-}
+/////////////////////////////////////////////////////////////////
 
-int main() {
-	//Test1();
-	//Test2();
-	//Test3();
-	//Test4();
-
-	/*string s("abcdefg");
-	Solution s1;
-	string str = s1.reverseStr(s, 2);
-	cout << str << endl;*/
-
-	/*string s("+1234567");
-	Solution s1;
-	int str = s1.StrToInt(s);*/
-
-	/*string s1("1");
-	string s2("9");
-	Solution s;
-	string str = s.addStrings(s1, s2);*/
-
-	/*string s("hello world ok");
-	Solution s1;
-	s = s1.reverseWords(s);*/
-
-
-
-	return 0;
-}
+//string的模拟实现
